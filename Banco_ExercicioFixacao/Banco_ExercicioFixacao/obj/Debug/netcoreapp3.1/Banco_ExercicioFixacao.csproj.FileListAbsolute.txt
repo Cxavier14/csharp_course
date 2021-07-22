@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\C#\Banco_ExercicioFixacao\Banco_ExercicioFixacao\bin\Debug\netcoreapp3.1\Banco_ExercicioFixacao.exe
+C:\Users\Usuario\Desktop\C#\Banco_ExercicioFixacao\Banco_ExercicioFixacao\bin\Debug\netcoreapp3.1\Banco_ExercicioFixacao.deps.json
+C:\Users\Usuario\Desktop\C#\Banco_ExercicioFixacao\Banco_ExercicioFixacao\bin\Debug\netcoreapp3.1\Banco_ExercicioFixacao.runtimeconfig.json
+C:\Users\Usuario\Desktop\C#\Banco_ExercicioFixacao\Banco_ExercicioFixacao\bin\Debug\netcoreapp3.1\Banco_ExercicioFixacao.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\C#\Banco_ExercicioFixacao\Banco_ExercicioFixacao\bin\Debug\netcoreapp3.1\Banco_ExercicioFixacao.dll
+C:\Users\Usuario\Desktop\C#\Banco_ExercicioFixacao\Banco_ExercicioFixacao\bin\Debug\netcoreapp3.1\Banco_ExercicioFixacao.pdb
+C:\Users\Usuario\Desktop\C#\Banco_ExercicioFixacao\Banco_ExercicioFixacao\obj\Debug\netcoreapp3.1\Banco_ExercicioFixacao.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\C#\Banco_ExercicioFixacao\Banco_ExercicioFixacao\obj\Debug\netcoreapp3.1\Banco_ExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\C#\Banco_ExercicioFixacao\Banco_ExercicioFixacao\obj\Debug\netcoreapp3.1\Banco_ExercicioFixacao.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\C#\Banco_ExercicioFixacao\Banco_ExercicioFixacao\obj\Debug\netcoreapp3.1\Banco_ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\Banco_ExercicioFixacao\Banco_ExercicioFixacao\obj\Debug\netcoreapp3.1\Banco_ExercicioFixacao.dll
+C:\Users\Usuario\Desktop\C#\Banco_ExercicioFixacao\Banco_ExercicioFixacao\obj\Debug\netcoreapp3.1\Banco_ExercicioFixacao.pdb
+C:\Users\Usuario\Desktop\C#\Banco_ExercicioFixacao\Banco_ExercicioFixacao\obj\Debug\netcoreapp3.1\Banco_ExercicioFixacao.genruntimeconfig.cache

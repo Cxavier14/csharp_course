@@ -29,15 +29,15 @@ namespace Banco_ExercicioFixacao {
 
             Console.WriteLine();
             Console.Write("Entre um valor para deposito: ");
-            double dep = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            conta.DepositoConta(dep);
+            double quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            conta.DepositoConta(quantia);
             Console.WriteLine("Dados da conta atualizados: ");
             Console.WriteLine(conta);
 
             Console.WriteLine();
             Console.Write("Entre com um valor para saque: ");
-            double saq = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            conta.SaqueConta(saq);
+            quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            conta.SaqueConta(quantia);
             Console.WriteLine(conta);
             
 

@@ -15,17 +15,18 @@ namespace Banco_ExercicioFixacao {
             Titular = titular;
         }
 
-        public Conta(int numero, string titular, double saldo) : this(numero, titular) {
-            Saldo = saldo;
+        public Conta(int numero, string titular, double depositoInicial) : this(numero, titular) {
+            DepositoConta(depositoInicial);
         }
 
         // metodos
-        public void DepositoConta(double deposito) {
-            Saldo += deposito;
+        public void DepositoConta(double quantia) {
+            Saldo += quantia;
         }
 
-        public void SaqueConta(double saque) {
-            Saldo -=saque + 5.00;
+        public void SaqueConta(double quantia) {
+            Saldo -= quantia + 5.00;
+            // para saques, há uma taxa a ser descontada no valor de 5.00 reais
         }
 
         public override string ToString() {

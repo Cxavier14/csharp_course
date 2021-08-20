@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\C#\Projetos\Matrizes2\Matrizes2\bin\Debug\netcoreapp3.1\Matrizes2.exe
+C:\Users\Usuario\Desktop\C#\Projetos\Matrizes2\Matrizes2\bin\Debug\netcoreapp3.1\Matrizes2.deps.json
+C:\Users\Usuario\Desktop\C#\Projetos\Matrizes2\Matrizes2\bin\Debug\netcoreapp3.1\Matrizes2.runtimeconfig.json
+C:\Users\Usuario\Desktop\C#\Projetos\Matrizes2\Matrizes2\bin\Debug\netcoreapp3.1\Matrizes2.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\C#\Projetos\Matrizes2\Matrizes2\bin\Debug\netcoreapp3.1\Matrizes2.dll
+C:\Users\Usuario\Desktop\C#\Projetos\Matrizes2\Matrizes2\bin\Debug\netcoreapp3.1\Matrizes2.pdb
+C:\Users\Usuario\Desktop\C#\Projetos\Matrizes2\Matrizes2\obj\Debug\netcoreapp3.1\Matrizes2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\C#\Projetos\Matrizes2\Matrizes2\obj\Debug\netcoreapp3.1\Matrizes2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\C#\Projetos\Matrizes2\Matrizes2\obj\Debug\netcoreapp3.1\Matrizes2.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\C#\Projetos\Matrizes2\Matrizes2\obj\Debug\netcoreapp3.1\Matrizes2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\Projetos\Matrizes2\Matrizes2\obj\Debug\netcoreapp3.1\Matrizes2.dll
+C:\Users\Usuario\Desktop\C#\Projetos\Matrizes2\Matrizes2\obj\Debug\netcoreapp3.1\Matrizes2.pdb
+C:\Users\Usuario\Desktop\C#\Projetos\Matrizes2\Matrizes2\obj\Debug\netcoreapp3.1\Matrizes2.genruntimeconfig.cache
